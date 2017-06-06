@@ -7,4 +7,6 @@ En el local como en el remonte
 damos hoy nuestro pull de cada dia
 perdona nuestros conflictos 
 como tambien perdonamos los de otros geeks
-
+no nos dejes caeren al detached HEAD
+y libranos de SVN
+git commit --amend
